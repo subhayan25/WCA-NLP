@@ -46,9 +46,7 @@ def main():
 """
     )
 
-   #st.sidebar.markdown("[![Github](https://github.com/aryanc55/NLPJenny/blob/master/assests/github.png?raw=true)](https://github/aryanc55)")
-    
-   
+  
 
     
 if __name__ == "__main__":
