@@ -1,4 +1,4 @@
-"""Main module for the streamlit Paribhasha app"""
+
 import streamlit as st
 
 
