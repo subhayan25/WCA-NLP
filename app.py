@@ -4,6 +4,7 @@ import streamlit as st
 
 import tabs.home
 import tabs.basicNLP
+import tabs.NERT
 import tabs.textSummarization
 
 
